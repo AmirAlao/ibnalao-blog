@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: "Your Blog Title"
+description: "A brief description of your blog."
+author: "Your Name"
+url: "https://www.ibnalao.com"  # Your domain name
+baseurl: ""  # Keep this blank if using a custom domain
