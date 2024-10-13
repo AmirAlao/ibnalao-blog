@@ -1,9 +1,38 @@
-theme: jekyll-theme-minimal
+# Site settings
 title: "Your Blog Title"
 description: "A brief description of your blog."
-author: "Your Name"
-url: "https://www.ibnalao.com"  # Your domain name
-baseurl: ""  # Keep this blank if using a custom domain
+author:
+  name: "Your Name"
+  avatar: "/assets/images/avatar.png"  # Optional: You can add an image path here
+url: "https://www.ibnalao.com"
+baseurl: ""
+
+# Use Minimal Mistakes theme
+theme: minimal-mistakes-jekyll  # Change the theme here
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"  # You can choose other skin colors like "dark" or "air"
+show_excerpts: true
+excerpt_separator: "<!--more-->"  # Optional: Add a separator for post excerpts
+
+# Enable sidebar
+sidebar:
+  enabled: true
+  sticky: true
+
+# Configure your plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate-v2  # Ensure the pagination plugin is included
+
+# Pagination settings
+pagination:
+  enabled: true
+  per_page: 5  # Adjust the number of posts per page
+
+# Default settings for collections and posts
 collections:
   authors:
     output: true
@@ -17,12 +46,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "single"  # Use Minimal Mistakes layout for posts
   - scope:
       path: ""
     values:
       layout: "default"
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
