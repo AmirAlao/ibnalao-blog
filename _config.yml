@@ -7,7 +7,7 @@ author:
 url: "https://www.ibnalao.com"
 baseurl: ""
 
-# Use Minimal Mistakes remote theme
+# Use Minimal Mistakes remote themee
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Minimal Mistakes settings
