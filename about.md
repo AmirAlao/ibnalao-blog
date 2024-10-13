@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: About Me
-permalink: /about/
 ---
 
-## Welcome to My Blog
-Here’s a little bit about me...
+# About page
+
+This page tells you a little bit about me.
