@@ -6,6 +6,8 @@ author:
   avatar: "/assets/images/avatar.png"  # Optional: Add an image path here
 url: "https://www.ibnalao.com"
 baseurl: ""
+include:
+  - _pages
 
 # Use Minimal Mistakes remote themee
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
