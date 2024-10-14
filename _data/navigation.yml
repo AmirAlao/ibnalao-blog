@@ -1,8 +1,9 @@
-- name: Home
-  link: /
-- name: About
-  link: /about/
-- name: Blog
-  link: /blog/
-- name: Staff
-  link: /staff/
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
