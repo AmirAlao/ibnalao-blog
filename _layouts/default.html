@@ -1,11 +1,25 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+
+    <!-- SEO Tags -->
+    {% seo %}
+    <!-- Add any additional head elements here -->
 </head>
 <body>
+
+<!-- Include Navigation -->
 {% include navigation.html %}
-{{ content }}
+
+<!-- Main Content -->
+<main>
+    {{ content }}
+</main>
+
+<!-- Footer (optional) -->
+{% include footer.html %}
+
 </body>
 </html>

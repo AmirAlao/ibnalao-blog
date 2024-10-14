@@ -271,10 +271,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
-  jekyll-feed
-  jekyll-seo-tag
-  jekyll-sitemap
+  jekyll-include-cache
 
 BUNDLED WITH
    2.5.21

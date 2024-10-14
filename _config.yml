@@ -1,19 +1,22 @@
+# Use Minimal Mistakes remote theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
 # Site settings
+locale: "en-US"
 title: "Your Blog Title"
-description: "A brief description of your blog."
+name: "Ibn Alao"
+description: "This will capture my thoughts and Reflections on my Islamic Journey"
 author:
-  name: "Your Name"
+  name: "Amir Alao"
   avatar: "/assets/images/avatar.png"  # Optional: Add an image path here
 url: "https://www.ibnalao.com"
 baseurl: ""
 include:
   - _pages
-
-# Use Minimal Mistakes remote themee
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+  - _assets
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "default"  # You can choose other skin colors like "dark" or "air"
+minimal_mistakes_skin: "dark"  # You can choose other skin colors like "dark" or "air"
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 
