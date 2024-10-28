@@ -2,8 +2,6 @@
 title: "The Inherent Worth of the Soul"
 layout: single
 date: 2023-08-04
-header:
-  teaser: "/assets/images/hero2.jpg"
 categories:
   - reflections
 tags:
@@ -11,6 +9,9 @@ tags:
   - self-worth
   - purpose
   - divine
+header:
+  teaser: "/assets/images/hero2.jpg"
+  image: "/assets/images/IMG_80143.jpg"
 ---
 
 Within the intricate tapestry of creation, each soul is woven with threads of purpose and potential. Just as the sun ☀️ illuminates the vast expanse of the heavens, so does your presence radiate a unique light that enriches the world around you. Reflect on the delicate balance that shaped your being – the breath of the Divine breathed life into your existence, bestowing upon you a precious essence that no one else possesses.

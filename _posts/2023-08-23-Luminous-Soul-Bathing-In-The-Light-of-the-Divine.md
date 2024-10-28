@@ -10,6 +10,8 @@ tags:
   - divine
   - spirituality
   - inner-peace
+header:
+  image: "/assets/images/akatsuki_sunset.jpg"
 ---
 
 In life's ebb and flow, our souls journey through peaks and valleys. Your inner world—moods, emotions, thoughts—unveils your well-being's portrait. Proximity to light dictates brilliance; distance, darkness. No doubt, what outshines the sun? Some might say, "Nothing." Others, "Countless stars brighter in our sky." My retort: my Creator surpasses all. Light upon Light. Mere words dim before His magnificence.
