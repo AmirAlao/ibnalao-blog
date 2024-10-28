@@ -2,6 +2,8 @@
 title: "The Inherent Worth of the Soul"
 layout: single
 date: 2023-08-04
+header:
+  teaser: "/assets/images/hero2.jpg"
 categories:
   - reflections
 tags:
