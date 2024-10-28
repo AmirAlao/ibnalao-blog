@@ -20,8 +20,8 @@ email:
 description: Ibn Alao's Blog, showing the world my thoughts and ideas.
 url: "https://ibnalao.com"
 repository: "https://github.com/AmirAlao/ibnalao-blog"
-teaser: "/assets/images/hero2.jpg"
-logo: "/assets/images/hero2.jpg"
+teaser: "/assets/images/kenxsakura.jpg"
+logo: "/assets/images/kenxsakura.jpg"
 masthead_title: Ibn Alao's Blog
 twitter_username: username
 github_username: username
@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "Amir Alao"
-  avatar : "/assets/images/hero1.jpg"
+  avatar : "/assets/images/kenxsakura.jpg"
   bio    : "My goal is to spark thought-provoking conversations and offer insights that are 
   both personal and relatable, in the hope of benefitting others. Here, you’ll find a blend of Tadabbur (contemplation),
   daily reflections, and notes from my ongoing studies. Welcome to my space of learning, growth, and reflection."
